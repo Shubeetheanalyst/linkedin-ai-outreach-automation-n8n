@@ -16,6 +16,7 @@ This system runs two parallel n8n workflows that work together to automate your 
 
 <img width="1462" height="543" alt="image" src="https://github.com/user-attachments/assets/ae3e4872-f2bd-41f9-9c10-6518a7fa14f9" />
 
+<img width="1466" height="472" alt="image" src="https://github.com/user-attachments/assets/ed4ca41f-ed27-4ffb-a7f5-6d52df6f7a4b" />
 
 ---
 
@@ -46,8 +47,6 @@ This system runs two parallel n8n workflows that work together to automate your 
 │       ▼                                                         │
 │  📊 Log to Google Sheet (Name, Score, Status, Cursor)           │
 └─────────────────────────────────────────────────────────────────┘
-
-<img width="1466" height="487" alt="image" src="https://github.com/user-attachments/assets/9c3ce9c2-0946-4afa-a881-23b03e7ad98e" />
 
 
 ┌─────────────────────────────────────────────────────────────────┐
