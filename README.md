@@ -14,6 +14,9 @@ This system runs two parallel n8n workflows that work together to automate your 
 | **Job** | Find & connect with new prospects | Nurture conversations & book meetings |
 | **Output** | Connection requests sent + logged | Meetings booked on Google Calendar |
 
+<img width="1462" height="543" alt="image" src="https://github.com/user-attachments/assets/ae3e4872-f2bd-41f9-9c10-6518a7fa14f9" />
+
+
 ---
 
 ## 🏗️ System Architecture
@@ -43,6 +46,9 @@ This system runs two parallel n8n workflows that work together to automate your 
 │       ▼                                                         │
 │  📊 Log to Google Sheet (Name, Score, Status, Cursor)           │
 └─────────────────────────────────────────────────────────────────┘
+
+<img width="1466" height="487" alt="image" src="https://github.com/user-attachments/assets/9c3ce9c2-0946-4afa-a881-23b03e7ad98e" />
+
 
 ┌─────────────────────────────────────────────────────────────────┐
 │                  FLOW 2 — CONVERSATION HANDLER                  │
